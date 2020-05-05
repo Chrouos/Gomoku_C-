@@ -1,0 +1,10 @@
+D:\C#\Gomoku_Demo\bin\Debug\Gomoku_Demo.exe.config
+D:\C#\Gomoku_Demo\bin\Debug\Gomoku_Demo.exe
+D:\C#\Gomoku_Demo\bin\Debug\Gomoku_Demo.pdb
+D:\C#\Gomoku_Demo\obj\Debug\Gomoku_Demo.csprojAssemblyReference.cache
+D:\C#\Gomoku_Demo\obj\Debug\Gomoku_Demo.Form1.resources
+D:\C#\Gomoku_Demo\obj\Debug\Gomoku_Demo.Properties.Resources.resources
+D:\C#\Gomoku_Demo\obj\Debug\Gomoku_Demo.csproj.GenerateResource.cache
+D:\C#\Gomoku_Demo\obj\Debug\Gomoku_Demo.csproj.CoreCompileInputs.cache
+D:\C#\Gomoku_Demo\obj\Debug\Gomoku_Demo.exe
+D:\C#\Gomoku_Demo\obj\Debug\Gomoku_Demo.pdb
