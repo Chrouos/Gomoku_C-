@@ -11,12 +11,13 @@
 -------
 程式碼介紹:  
    
->Form1.cs：主程式控制  
+>**Form1.cs**：主程式控制  
   
->GameController.cs：遊戲控制，規則等  
+>**GameController.cs**：遊戲控制，規則等  
   
->Board.cs：棋盤上的控制  
->>Piece.cs：棋子製造的類別  
->>>PieceType.cs：enum 名稱  
->>>>WhitePiece.cs：白棋　　       
->>>>BlackPiece.cs：黑棋      
+>**Board.cs**：棋盤上的控制  
+
+>**Piece.cs**：棋子製造的類別  
+>>**PieceType.cs**：enum 名稱  
+>>**WhitePiece.cs**：白棋　　       
+>>**BlackPiece.cs**：黑棋      
